@@ -1,4 +1,6 @@
 # Smart editing tools
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funibasil%2Fsmart-editing-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Funibasil%2Fsmart-editing-tools?ref=badge_shield)
+
 
 ## It's time to get some useful tools!
 
@@ -34,3 +36,7 @@ pretty angle multiple 45 degrees between current and previous segments of your l
 -----------------
 Vladivostok, 2015
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funibasil%2Fsmart-editing-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Funibasil%2Fsmart-editing-tools?ref=badge_large)
